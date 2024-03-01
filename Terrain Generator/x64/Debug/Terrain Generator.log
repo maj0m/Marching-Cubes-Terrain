@@ -1,0 +1,35 @@
+﻿  main.cpp
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\framework.h(25,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\camera.h(24,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\camera.h(37,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\camera.h(38,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\camera.h(44,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\camera.h(45,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\camera.h(119,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\camera.h(119,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\camera.h(124,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\erosioncomputeshader.h(8,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\erosioncomputeshader.h(13,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\erosioncomputeshader.h(14,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\erosioncomputeshader.h(16,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\erosioncomputeshader.h(17,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\erosioncomputeshader.h(101,56): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\erosioncomputeshader.h(101,25): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\geometry.h(52,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\sphere.h(12,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\sphere.h(13,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\scene.h(23,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\scene.h(34,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\scene.h(71,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\scene.h(72,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\scene.h(73,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\scene.h(107,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\scene.h(107,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\scene.h(108,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\scene.h(108,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\scene.h(147,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\scene.h(168,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\scene.h(168,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\main.cpp(94,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\main.cpp(94,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Terrain Generator.vcxproj -> C:\Users\nessi\Desktop\Prog 2023\C++\Terrain Generator\Terrain Generator\x64\Debug\Terrain Generator.exe

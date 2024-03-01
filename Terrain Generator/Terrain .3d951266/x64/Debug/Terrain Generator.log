@@ -1,0 +1,102 @@
+﻿  main.cpp
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\framework.h(25,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(24,14): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(37,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(38,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(44,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(45,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(119,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(119,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(124,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\erosioncomputeshader.h(8,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\erosioncomputeshader.h(13,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\erosioncomputeshader.h(14,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\erosioncomputeshader.h(16,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\erosioncomputeshader.h(17,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\erosioncomputeshader.h(101,56): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\erosioncomputeshader.h(101,25): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(52,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\sphere.h(12,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\sphere.h(13,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(23,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(34,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(71,25): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(72,22): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(73,22): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(102,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(102,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(103,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(103,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(142,67): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(142,60): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(163,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(163,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\main.cpp(94,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\main.cpp(94,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Terrain Generator.vcxproj -> C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\x64\Debug\Terrain Generator.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

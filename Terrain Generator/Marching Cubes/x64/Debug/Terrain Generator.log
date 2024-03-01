@@ -1,0 +1,174 @@
+﻿  main.cpp
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\framework.h(25,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(24,14): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(37,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(38,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(44,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(45,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(119,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(119,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\camera.h(124,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(25,6): warning C4091: 'typedef ': ignored on left of 'Geometry::GridCell' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(28,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(34,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(80,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(80,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(80,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(81,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(81,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(81,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(82,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(82,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(82,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(83,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(83,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(83,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(84,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(84,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(84,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(85,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(85,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(85,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(86,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(86,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(86,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(87,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(87,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(87,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(88,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(88,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(88,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(89,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(89,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(89,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(90,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(90,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(90,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(91,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(91,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\geometry.h(91,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(20,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(31,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(91,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(91,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(92,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(92,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(107,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\scene.h(107,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\main.cpp(94,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\main.cpp(94,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Terrain Generator.vcxproj -> C:\Users\nessi\Desktop\Önlab\Marching Cubes\Terrain Generator\x64\Debug\Marching Cubes.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
